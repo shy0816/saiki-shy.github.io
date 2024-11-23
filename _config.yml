@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Guoqiang Yang"
-description              : "PhD Student at Shanghai Jiao Tong University"
+description              : "PhD Student"
 repository               : "psycho-ygq/psycho-ygq.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,8 @@ google_scholar_stats_use_cdn : true
 author:
   name             : "Guoqiang Yang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Department of Computer science and engineering,Shanghai Jiao Tong University"
+  bio              : "Shanghai Jiao Tong University"
+  aa               : "Department of Computer science and engineering"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
