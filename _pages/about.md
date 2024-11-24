@@ -17,7 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-hello
+Hello! My research interest includes Optical neural networks and Deep learning. I am working hard to explore the mysteries of optical neural networks.![06D9EA13](https://github.com/user-attachments/assets/87b2222f-1b32-4217-8463-4a53d791ebc5)
+
 
 # 🎖 Honors and Awards
 - Principal Scholarship Nomination Candidates*(20/22000)*, Xidian University, *2023.11*.
