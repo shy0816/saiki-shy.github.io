@@ -17,7 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello! My research interest includes Optical neural networks and Deep learning. I am working hard to explore the mysteries of optical neural networks. 😄
+Hello!👋👋👋
+
+My research interest includes Optical neural networks and Deep learning. 
+I am working hard to explore the mysteries of Optical neural networks. 😄😄😄
 
 
 # 🎖 Honors and Awards
