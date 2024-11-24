@@ -29,5 +29,5 @@ Hello! My research interest includes Optical neural networks and Deep learning. 
 - First Prize Scholarship*(1%)*, Xidian University, *2022.10*.
 
 # 📖 Educations
-- *2024.06 - now*, PhD Student, Department of Computer Science and Engineering, Shanghai Jiao Tong University. 
+- *2024.09 - now*, PhD Student, Department of Computer Science and Engineering, Shanghai Jiao Tong University. 
 - *2020.09 - 2024.06*, Bachelor of Engineering, Space Science and Technology(Electronic Information), Xidian University.
