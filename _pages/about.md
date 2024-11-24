@@ -19,3 +19,14 @@ redirect_from:
 
 hello
 
+# 🎖 Honors and Awards
+- Principal Scholarship Nomination Candidates(20/22000), Xidian University, 2023.11.
+- Xiaomi Scholarship Special Prize, Xiaomi Corporation(5/22000), 2023.10.
+- National Scholarship, Ministry of Education of China, 2023.10.
+- National Scholarship, Ministry of Education of China, 2022.10.
+- First Prize Scholarship, Xidian University, 2023.10.
+- First Prize Scholarship, Xidian University, 2022.10.
+
+# 📖 Educations
+- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
