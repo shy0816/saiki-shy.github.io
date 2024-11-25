@@ -27,8 +27,8 @@ I am working hard to explore the mysteries of Optical neural networks. 😄😄�
 # 🏆 Honors and Awards
 
 - Principal Scholarship Nomination Candidates*(20/22000)*, Xidian University, *2023.11*.
-- Xiaomi Scholarship Special Prize, Xiaomi Corporation*(5/22000,&yen20,000)*, *2023.10*.
-- Xiaomi Scholarship General Award, Xiaomi Corporation*(20/22000&yen5,000)*, *2022.10*.
+- Xiaomi Scholarship Special Prize, Xiaomi Corporation*(5/22000,&yen;20,000)*, *2023.10*.
+- Xiaomi Scholarship General Award, Xiaomi Corporation*(20/22000&yen;5,000)*, *2022.10*.
 - National Scholarship, Ministry of Education of China, *2023.10*.
 - National Scholarship, Ministry of Education of China, *2022.10*.
 - First Prize Scholarship*(1%)*, Xidian University, *2023.10*.
