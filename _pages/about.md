@@ -17,3 +17,4 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+![《日常》第1话_高清 1080P+ mp4_20231225_093620 775](https://github.com/user-attachments/assets/f15698f9-22c2-40da-942c-8120b4497d82)
