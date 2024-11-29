@@ -21,10 +21,10 @@ google_scholar_stats_use_cdn : true
 
 # Site Author
 author:
-  name             : "Guoqiang Yang"
+  name             : "Haoyu Sun"
   avatar           : "images/ok.png"
-  bio              : "Shanghai Jiao Tong University"
-  location         : "Shanghai, China"
+  bio              : "HFUT"
+  location         : "China"
   employer         :
   pubmed           : 
   googlescholar    : #"https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "psycho-ygq"
+  github           : "saiki-shy"
   google_plus      :
   keybase          :
   instagram        :
